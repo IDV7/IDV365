@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IDV365
+- 👀 I’m interested in Arduino and FPV freestyle drones
+- 🌱 I’m currently learning Electricity electronics
+- 📫 How to reach me devosisaak@gmail.com

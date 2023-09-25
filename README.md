@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @IDV365
 - 👀 I’m interested in Arduino and FPV freestyle drones
-- 🌱 I’m currently learning Electricity electronics
+- 🌱 I’m currently studying Embedded Software
 - 📫 How to reach me github@isaak.fastmail.com
